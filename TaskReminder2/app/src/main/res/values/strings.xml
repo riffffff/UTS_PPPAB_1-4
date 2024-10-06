@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskReminder</string>
+    <string name="text_header">SimpliRemind</string>
+    <string name="add_task">Add Task</string>
+    <string name="heading_card">Make your own Reminder.</string>
+    <array name="repeat">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+    </array>
+    <string name="title">Title</string>
+</resources>
