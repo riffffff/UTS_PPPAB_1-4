@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UTS_PPPAB1_MuhammadRifaiFirdaus" parent="Theme.Design.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Theme.UTS_PPPAB1_MuhammadRifaiFirdaus" parent="Base.Theme.UTS_PPPAB1_MuhammadRifaiFirdaus" />
+</resources>
